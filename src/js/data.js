@@ -2,7 +2,7 @@ export default{
     getLunbo(){
         var lunboDataArry=[
             {
-                "url": "https://www.baidu.com/",
+                "url": "https://www.baidu.com1/",
                 "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.jj20.com%2Fup%2Fallimg%2F1114%2F121420113514%2F201214113514-1-1200.jpg&refer=http%3A%2F%2Fimg.jj20.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1648882990&t=3d9cda3fa51cc7017d8ab203413cde8d"
             },
             {
